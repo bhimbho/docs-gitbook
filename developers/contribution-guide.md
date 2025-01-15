@@ -18,7 +18,7 @@ Here are some guidelines that could help you to get started quickly.
 
 ## Design rules
 
-* **Keep it simple**. No new options, please. If you want new options, please talk to use first.
+* **Keep it simple**. No new options, please. If you want new options, please talk to us first.
 * **Use what already exists in the current stack**. When adding a feature, do not introduce a new software in the existing stack. For instance, at the moment, the current version does not require Redis to be used. If we do create a feature that (for some reasons) depends on Redis, we will need all existing instances to install Redis on top of all the other things people have to setup to install Monica (there are thousands of them). We can't afford to do that.
 
 ## Feature branches
